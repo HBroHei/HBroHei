@@ -1,6 +1,6 @@
 ### Links
-Main page: hbrohei.github.io \
-Main YT: https://www.youtube.com/channel/UCAB-dMSrwRcsUKBoWkPCkEA
+Main page: https://hbrohei.github.io \
+Main YT: https://www.youtube.com/channel/UCAB-dMSrwRcsUKBoWkPCkEA \
 Secondary YT: https://www.youtube.com/channel/UCgqaFU1ff6axCEA5UkOt98A
 
 <!---
