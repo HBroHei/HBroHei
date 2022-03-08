@@ -1,5 +1,3 @@
-A programmer who also knows how to edit and post video
-
 ### Links
 Main page: hbrohei.github.io \
 Main YT: https://www.youtube.com/channel/UCAB-dMSrwRcsUKBoWkPCkEA
